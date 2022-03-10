@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Send</string>
+    <string name="textview"> NA </string>
+    <string name="edit_message1">Enter your birthday(ex:19990808)</string>
+    <string name="button_ble">BLE</string>
+</resources>
